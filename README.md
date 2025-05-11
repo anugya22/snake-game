@@ -12,6 +12,9 @@ Choose from five different snake colors using the buttons at the bottom of the g
 
 Pink Red Blue Cyan Dark Blue
 
+# Play the Game 🎮
+https://snake-game-37j6.vercel.app/index.html
+
 Technical Details
 
 Built with HTML5, CSS3, and JavaScript Utilizes HTML5 Canvas for rendering Implements game loop using setTimeout Responsive design for various screen sizes
